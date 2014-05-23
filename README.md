@@ -9,5 +9,6 @@ An experiment in treating life like a software project.
 ### Who else is doing this?
 
 - [Abi Raja](https://github.com/abi/life/issues?state=open)
+- [Chris Morris](https://github.com/ChrisMorrisOrg/life/issues?state=open)
 - [Dennis Ideler](https://github.com/dideler/life/issues)
 - *You! (Add yourself to the list with a pull request)*
