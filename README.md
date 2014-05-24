@@ -11,4 +11,5 @@ An experiment in treating life like a software project.
 - [Abi Raja](https://github.com/abi/life/issues?state=open)
 - [Chris Morris](https://github.com/ChrisMorrisOrg/life/issues?state=open)
 - [Dennis Ideler](https://github.com/dideler/life/issues)
+- [Noon Silk](https://github.com/silky/Life)
 - *You! (Add yourself to the list with a pull request)*
