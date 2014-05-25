@@ -1,6 +1,6 @@
-# Feross Aboukhadijeh
+# Andrew Hood
 
-### → I have [`goals`](https://github.com/feross/Life/issues?state=open) and [`achievements`](https://github.com/feross/Life/issues?state=closed). ←
+### → I have [`goals`](https://github.com/andrewhood125/Life/issues?state=open) and [`achievements`](https://github.com/andrewhood125/Life/issues?state=closed). ←
 
 ### What is this?
 
@@ -8,8 +8,4 @@ An experiment in treating life like a software project.
 
 ### Who else is doing this?
 
-- [Abi Raja](https://github.com/abi/life/issues?state=open)
-- [Chris Morris](https://github.com/ChrisMorrisOrg/life/issues?state=open)
-- [Dennis Ideler](https://github.com/dideler/life/issues)
-- [Noon Silk](https://github.com/silky/Life)
-- *You! (Add yourself to the list with a pull request)*
+See the lastest [`readme.md`](https://github.com/feross/Life/blob/master/README.md)
