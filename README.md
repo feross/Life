@@ -13,4 +13,5 @@ An experiment in treating life like a software project.
 - [Chris Morris](https://github.com/ChrisMorrisOrg/life/issues?state=open)
 - [Dennis Ideler](https://github.com/dideler/life/issues)
 - [Noon Silk](https://github.com/silky/Life)
+- [Tomas-samot](https://github.com/tomas-samot/Life)
 - *You! (Add yourself to the list with a pull request)*
