@@ -14,4 +14,5 @@ An experiment in treating life like a software project.
 - [Dennis Ideler](https://github.com/dideler/life/issues)
 - [Noon Silk](https://github.com/silky/Life)
 - [Tomas-samot](https://github.com/tomas-samot/Life)
+- [Elena Torro](https://github.com/elenatorro/Life)
 - *You! (Add yourself to the list with a pull request)*
