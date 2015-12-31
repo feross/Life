@@ -16,4 +16,5 @@ An experiment in treating life like a software project.
 - [Tomas-samot](https://github.com/tomas-samot/Life)
 - [Elena Torro](https://github.com/elenatorro/Life)
 - [Jatin Shridhar](https://github.com/jatins/Life)
+- [Adam Magnier](https://github.com/qsypoq/Life) 
 - *You! (Add yourself to the list with a pull request)*
