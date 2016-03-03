@@ -1,6 +1,6 @@
-# Feross Aboukhadijeh
+# Javier Farinos
 
-### → I have [`goals`](https://github.com/feross/Life/issues?state=open) and [`achievements`](https://github.com/feross/Life/issues?state=closed). ←
+### → I have [`goals`](https://github.com/jafamo/Life/issues?state=open) and [`achievements`](https://github.com/jafamo/Life/issues?state=closed). ←
 
 ### What is this?
 
@@ -16,5 +16,6 @@ An experiment in treating life like a software project.
 - [Tomas-samot](https://github.com/tomas-samot/Life)
 - [Elena Torro](https://github.com/elenatorro/Life)
 - [Jatin Shridhar](https://github.com/jatins/Life)
-- [Adam Magnier](https://github.com/qsypoq/Life) 
+- [Adam Magnier](https://github.com/qsypoq/Life)
+- [Javier Farinos](https://github.com/jafamo/Life)
 - *You! (Add yourself to the list with a pull request)*
