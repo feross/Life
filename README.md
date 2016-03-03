@@ -1,6 +1,6 @@
-# Feross Aboukhadijeh
+# Javier Farinos
 
-### → I have [`goals`](https://github.com/feross/Life/issues?state=open) and [`achievements`](https://github.com/feross/Life/issues?state=closed). ←
+### → I have [`goals`](https://github.com/jafamo/Life/issues?state=open) and [`achievements`](https://github.com/jafamo/Life/issues?state=closed). ←
 
 ### What is this?
 
