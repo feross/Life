@@ -18,4 +18,5 @@ An experiment in treating life like a software project.
 - [Jatin Shridhar](https://github.com/jatins/Life)
 - [Adam Magnier](https://github.com/qsypoq/Life)
 - [Javier Farinos](https://github.com/jafamo/Life)
+- [Michael Markidis] (https://github.com/me28017/Life)
 - *You! (Add yourself to the list with a pull request)*
